@@ -1,1 +1,1562 @@
-[{"Department":"CS","Batch":"2022","Section":"F","Subject":"PF (CS-F)","Room":"C-301","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2022","Section":"F","Subject":"Islamic Studies (CS-F)","Room":"C-301","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2022","Section":"F","Subject":"Calculus (CS-F)","Room":"C-301","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2022","Section":"F","Subject":"AP (CS-F)","Room":"C-301","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2022","Section":"G","Subject":"Islamic Studies (CS-G)","Room":"C-302","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2022","Section":"G","Subject":"PF (CS-G)","Room":"C-302","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2022","Section":"G","Subject":"AP (CS-G)","Room":"C-302","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2022","Section":"G","Subject":"Calculus (CS-G)","Room":"C-302","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2022","Section":"H","Subject":"Calculus (CS-H)","Room":"C-303","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2022","Section":"H","Subject":"AP (CS-H)","Room":"C-303","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2022","Section":"H","Subject":"Islamic Studies (CS-H)","Room":"C-303","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2022","Section":"H","Subject":"PF (CS-H)","Room":"C-303","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2022","Section":"J","Subject":"PF (CS-J)","Room":"C-304","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2022","Section":"J","Subject":"Islamic Studies (CS-J)","Room":"C-304","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2022","Section":"J","Subject":"Calculus (CS-J)","Room":"C-304","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2022","Section":"J","Subject":"AP (CS-J)","Room":"C-304","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2022","Section":"K","Subject":"Calculus (CS-K)","Room":"C-305","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2022","Section":"K","Subject":"PF (CS-K)","Room":"C-305","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2022","Section":"K","Subject":"AP (CS-K)","Room":"C-305","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2022","Section":"K","Subject":"Islamic Studies (CS-K)","Room":"C-305","Timings":"01:00-02:20"},{"Department":"C-307","Batch":"Eng Comp (CS-A)   ","Section":"08:30-10:15","Subject":null,"Room":null,"Timings":null},{"Department":"CS","Batch":"2022","Section":"A","Subject":"Eng Comp (CS-A)   ","Room":"C-307","Timings":"08:30-10:15"},{"Department":"C-307","Batch":"Eng Comp (CS-B)   ","Section":"12:30-02:15","Subject":null,"Room":null,"Timings":null},{"Department":"CS","Batch":"2022","Section":"B","Subject":"Eng Comp (CS-B)   ","Room":"C-307","Timings":"12:30-02:15"},{"Department":"C-308","Batch":"Eng Comp (CS-C)   ","Section":"08:30-10:15","Subject":null,"Room":null,"Timings":null},{"Department":"CS","Batch":"2022","Section":"C","Subject":"Eng Comp (CS-C)   ","Room":"C-308","Timings":"08:30-10:15"},{"Department":"C-308","Batch":"Eng Comp (CS-D)   ","Section":"12:30-02:15","Subject":null,"Room":null,"Timings":null},{"Department":"CS","Batch":"2022","Section":"D","Subject":"Eng Comp (CS-D)   ","Room":"C-308","Timings":"12:30-02:15"},{"Department":"AI","Batch":"2019","Section":"J","Subject":"Comp Vision (AI-J)","Room":"C-308","Timings":"02:30-03:50"},{"Department":"AI","Batch":"2019","Section":"J","Subject":"Info Sec (AI-J)","Room":"C-308","Timings":"03:55-05:15"},{"Department":"C-309","Batch":"Eng Comp (AI-C)   ","Section":"08:30-10:15","Subject":null,"Room":null,"Timings":null},{"Department":"AI","Batch":"2022","Section":"C","Subject":"Eng Comp (AI-C)   ","Room":"C-309","Timings":"08:30-10:15"},{"Department":"C-309","Batch":"Comp Networks (CY-T) ","Section":"10:15-11:30","Subject":null,"Room":null,"Timings":null},{"Department":"CY","Batch":"2020","Section":"T","Subject":"Comp Networks (CY-T) ","Room":"C-309","Timings":"10:15-11:30"},{"Department":"C-309","Batch":"Eng Comp (CS-E)   ","Section":"12:00-01:45","Subject":null,"Room":null,"Timings":null},{"Department":"CS","Batch":"2022","Section":"E","Subject":"Eng Comp (CS-E)   ","Room":"C-309","Timings":"12:00-01:45"},{"Department":"AI","Batch":"2019","Section":"K","Subject":"Info Sec (AI-K)","Room":"C-309","Timings":"02:30-03:50"},{"Department":"AI","Batch":"2019","Section":"K","Subject":"Comp Vision (AI-K)","Room":"C-309","Timings":"03:55-05:15"},{"Department":"AI","Batch":"2022","Section":"A","Subject":"Calculus (AI-A)","Room":"C-310","Timings":"08:30-09:50"},{"Department":"AI","Batch":"2022","Section":"A","Subject":"Pakistan Studies (AI-A)","Room":"C-310","Timings":"10:00-11:20"},{"Department":"AI","Batch":"2022","Section":"A","Subject":"LA (AI-A)","Room":"C-310","Timings":"11:30-12:50"},{"Department":"AI","Batch":"2022","Section":"A","Subject":"PF (AI-A)","Room":"C-310","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2019","Section":"C","Subject":"Info Sec (CS-C)","Room":"C-310","Timings":"02:30-03:50"},{"Department":"CS","Batch":"2019","Section":"D","Subject":"Info Sec (CS-D)","Room":"C-310","Timings":"03:55-05:15"},{"Department":"CS","Batch":"2021","Section":"H","Subject":"Discrete (CS-H)","Room":"C-311","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2021","Section":"H","Subject":"COAL (CS-H)","Room":"C-311","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2021","Section":"H","Subject":"LA (CS-H)","Room":"C-311","Timings":"11:30-12:50"},{"Department":"AI","Batch":"2020","Section":"K","Subject":"OS (AI-K)","Room":"C-311","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2019","Section":"G","Subject":"Info Sec (CS-G)","Room":"C-311","Timings":"02:30-03:50"},{"Department":"CS","Batch":"2019","Section":"C","Subject":"PPIT (CS-C)","Room":"C-311","Timings":"03:55-05:15"},{"Department":"AI","Batch":"2022","Section":"B","Subject":"Calculus (AI-B)","Room":"C-401","Timings":"08:30-09:50"},{"Department":"AI","Batch":"2022","Section":"B","Subject":"LA (AI-B)","Room":"C-401","Timings":"10:00-11:20"},{"Department":"AI","Batch":"2022","Section":"B","Subject":"PF (AI-B)","Room":"C-401","Timings":"11:30-12:50"},{"Department":"AI","Batch":"2022","Section":"B","Subject":"Pakistan Studies (AI-B)","Room":"C-401","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2019","Section":"D","Subject":"PPIT (CS-D)","Room":"C-401","Timings":"02:30-03:50"},{"Department":"CS","Batch":"2019","Section":"G","Subject":"PPIT (CS-G)","Room":"C-401","Timings":"03:55-05:15"},{"Department":"C-402","Batch":"Eng Comp (AI-D)   ","Section":"08:30-10:15","Subject":null,"Room":null,"Timings":null},{"Department":"AI","Batch":"2022","Section":"D","Subject":"Eng Comp (AI-D)   ","Room":"C-402","Timings":"08:30-10:15"},{"Department":"DS","Batch":"2021","Section":"U","Subject":"Prob & Stats (DS-U)","Room":"C-402","Timings":"11:30-12:50"},{"Department":"DS","Batch":"2021","Section":"N","Subject":"Prob & Stats (DS-N)","Room":"C-402","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2022","Section":"C","Subject":"PF (SE-C)","Room":"C-403","Timings":"08:30-09:50"},{"Department":"SE","Batch":"2022","Section":"C","Subject":"Pakistan Studies (SE-C)","Room":"C-403","Timings":"10:00-11:20"},{"Department":"SE","Batch":"2022","Section":"C","Subject":"AP (SE-C)","Room":"C-403","Timings":"11:30-12:50"},{"Department":"DS","Batch":"2021","Section":"M","Subject":"COAL (DS-M)","Room":"C-403","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2022","Section":"C","Subject":"Calculus (SE-C)","Room":"C-403","Timings":"02:30-03:50"},{"Department":"SE","Batch":"2022","Section":"D","Subject":"Pakistan Studies (SE-D)","Room":"C-404","Timings":"08:30-09:50"},{"Department":"SE","Batch":"2022","Section":"D","Subject":"PF (SE-D)","Room":"C-404","Timings":"10:00-11:20"},{"Department":"SE","Batch":"2022","Section":"D","Subject":"Calculus (SE-D)","Room":"C-404","Timings":"11:30-12:50"},{"Department":"AI","Batch":"2021","Section":"J","Subject":"Fund of Mgt (AI-J)","Room":"C-404","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2022","Section":"D","Subject":"AP (SE-D)","Room":"C-404","Timings":"02:30-03:50"},{"Department":"SE","Batch":"2022","Section":"G","Subject":"PF (SE-G)","Room":"C-405","Timings":"08:30-09:50"},{"Department":"SE","Batch":"2022","Section":"G","Subject":"AP (SE-G)","Room":"C-405","Timings":"10:00-11:20"},{"Department":"SE","Batch":"2022","Section":"G","Subject":"Pakistan Studies (SE-G)","Room":"C-405","Timings":"11:30-12:50"},{"Department":"SE","Batch":"2022","Section":"G","Subject":"Calculus (SE-G)","Room":"C-405","Timings":"02:30-03:50"},{"Department":"C-406","Batch":"Eng Comp (SE-A)   ","Section":"08:30-10:15","Subject":null,"Room":null,"Timings":null},{"Department":"SE","Batch":"2022","Section":"A","Subject":"Eng Comp (SE-A)   ","Room":"C-406","Timings":"08:30-10:15"},{"Department":"C-406","Batch":"Eng Comp (SE-E)   ","Section":"12:30-02:15","Subject":null,"Room":null,"Timings":null},{"Department":"SE","Batch":"2022","Section":"E","Subject":"Eng Comp (SE-E)   ","Room":"C-406","Timings":"12:30-02:15"},{"Department":"C-407","Batch":"Eng Comp (SE-B)   ","Section":"08:30-10:15","Subject":null,"Room":null,"Timings":null},{"Department":"SE","Batch":"2022","Section":"B","Subject":"Eng Comp (SE-B)   ","Room":"C-407","Timings":"08:30-10:15"},{"Department":"C-407","Batch":"Eng Comp (SE-F)   ","Section":"12:30-02:15","Subject":null,"Room":null,"Timings":null},{"Department":"SE","Batch":"2022","Section":"F","Subject":"Eng Comp (SE-F)   ","Room":"C-407","Timings":"12:30-02:15"},{"Department":"CY","Batch":"2022","Section":"D","Subject":"Calculus (CY-D)","Room":"C-408","Timings":"08:30-09:50"},{"Department":"CY","Batch":"2022","Section":"D","Subject":"PF (CY-D)","Room":"C-408","Timings":"10:00-11:20"},{"Department":"CY","Batch":"2022","Section":"D","Subject":"Pakistan Studies (CY-D)","Room":"C-408","Timings":"11:30-12:50"},{"Department":"CY","Batch":"2022","Section":"D","Subject":"LA (CY-D)","Room":"C-408","Timings":"01:00-02:20"},{"Department":"CY","Batch":"2022","Section":"C","Subject":"PF (CY-C)","Room":"C-409","Timings":"08:30-09:50"},{"Department":"CY","Batch":"2022","Section":"C","Subject":"Calculus (CY-C)","Room":"C-409","Timings":"10:00-11:20"},{"Department":"CY","Batch":"2022","Section":"C","Subject":"LA (CY-C)","Room":"C-409","Timings":"11:30-12:50"},{"Department":"CY","Batch":"2022","Section":"C","Subject":"Pakistan Studies (CY-C)","Room":"C-409","Timings":"01:00-02:20"},{"Department":"AI","Batch":"2020","Section":"J","Subject":"Machine Learn (AI-J)","Room":"C-409","Timings":"02:30-03:50"},{"Department":"DS","Batch":"2020","Section":"N","Subject":"Data Analysis (DS-N)","Room":"C-410","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2021","Section":"D","Subject":"LA (CS-D)","Room":"C-410","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2021","Section":"D","Subject":"Discrete (CS-D)","Room":"C-410","Timings":"01:00-02:20"},{"Department":"AI","Batch":"2020","Section":"K","Subject":"Machine Learn (AI-K)","Room":"C-410","Timings":"03:55-05:15"},{"Department":"DS","Batch":"2020","Section":"N","Subject":"Data Warehousing (DS-N)","Room":"B-227","Timings":"10:00-11:20"},{"Department":"AI","Batch":"2020","Section":"J","Subject":"OS (AI-J)","Room":"B-227","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2020","Section":"J","Subject":"Knowl Rep (AI-J)\/ Knwl Graph(CS)","Room":"B-227","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2020","Section":"K","Subject":"Knowl Rep (AI-K)\/ Knwl Graph(CS)","Room":"B-227","Timings":"02:30-03:50"},{"Department":"DS","Batch":"2022","Section":"D","Subject":"PF (DS-D)","Room":"B-229","Timings":"08:30-09:50"},{"Department":"DS","Batch":"2022","Section":"D","Subject":"Calculus (DS-D)","Room":"B-229","Timings":"10:00-11:20"},{"Department":"DS","Batch":"2022","Section":"D","Subject":"Pakistan Studies (DS-D)","Room":"B-229","Timings":"11:30-12:50"},{"Department":"DS","Batch":"2022","Section":"D","Subject":"LA (DS-D)","Room":"B-229","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2021","Section":"F","Subject":"COAL (CS-F)","Room":"B-230","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2021","Section":"F","Subject":"LA (CS-F)","Room":"B-230","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2021","Section":"F","Subject":"Discrete (CS-F)","Room":"B-230","Timings":"01:00-02:20"},{"Department":"CY","Batch":"","Section":"T","Subject":"Net & CySec-I (CY-T)","Room":"A-301","Timings":"08:30-09:50"},{"Department":"CY","Batch":"","Section":"T","Subject":"Prob & Stats (CY-T)","Room":"A-301","Timings":"10:00-11:20"},{"Department":"CY","Batch":"","Section":"T","Subject":"COAL (CY-T)","Room":"A-301","Timings":"11:30-12:50"},{"Department":"DS","Batch":"2020","Section":"N","Subject":"Algo (DS-N)","Room":"A-301","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2022","Section":"F","Subject":"Calculus (SE-F)","Room":"A-301","Timings":"02:30-03:50"},{"Department":"CS","Batch":"2021","Section":"E","Subject":"COAL (CS-E)","Room":"A-302","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2020","Section":"E","Subject":"TBW (CS-E)","Room":"A-302","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2020","Section":"D","Subject":"Comp Networks (CS-D)","Room":"A-302","Timings":"02:30-03:50"},{"Department":"CS","Batch":"2021","Section":"V","Subject":"COAL (CS-V)","Room":"A-303","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2021","Section":"V","Subject":"Discrete (CS-V)","Room":"A-303","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2020","Section":"D","Subject":"SDA (CS-D)","Room":"A-303","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2020","Section":"G","Subject":"TBW (CS-G)","Room":"A-303","Timings":"02:30-03:50"},{"Department":"CS","Batch":"2021","Section":"G","Subject":"LA (CS-G)","Room":"A-305","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2021","Section":"G","Subject":"Discrete (CS-G)","Room":"A-305","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2021","Section":"G","Subject":"COAL (CS-G)","Room":"A-305","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2020","Section":"G","Subject":"Comp Networks (CS-G)","Room":"A-305","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2021","Section":"P","Subject":"LA (SE-P)","Room":"A-310","Timings":"10:00-11:20"},{"Department":"SE","Batch":"2021","Section":"P","Subject":"Fund of Mgt (SE-P)","Room":"A-310","Timings":"11:30-12:50"},{"Department":"SE","Batch":"2021","Section":"Q","Subject":"Mktg Mgt  (SE-Q)","Room":"A-310","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2020","Section":"C","Subject":"Comp Networks (CS-C)","Room":"l","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2020","Section":"C","Subject":"Automata (CS-C)","Room":"l","Timings":"10:00-11:20"},{"Department":"SE","Batch":"2021","Section":"Q","Subject":"LA (SE-Q)","Room":"l","Timings":"11:30-12:50"},{"Department":"SE","Batch":"2020","Section":"R","Subject":"S\/w Const & Dev (SE-R)","Room":"l","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2020","Section":"R","Subject":"Prob & Stats(SE-R)","Room":"l","Timings":"02:30-03:50"},{"Department":"SE","Batch":"2020","Section":"R","Subject":"S\/w Qual Engg (SE-R)","Room":"l","Timings":"03:55-05:15"},{"Department":"CS","Batch":"2020","Section":"B","Subject":"Automata (CS-B)","Room":"A-314","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2020","Section":"B","Subject":"Comp Networks (CS-B)","Room":"A-314","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2020","Section":"E","Subject":"Comp Networks (CS-E)","Room":"A-314","Timings":"11:30-12:50"},{"Department":"SE","Batch":"2020","Section":"S","Subject":"S\/w Qual Engg (SE-S)","Room":"A-314","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2020","Section":"S","Subject":"S\/w Const & Dev (SE-S)","Room":"A-314","Timings":"02:30-03:50"},{"Department":"SE","Batch":"2020","Section":"S","Subject":"Prob & Stats(SE-S)","Room":"A-314","Timings":"03:55-05:15"},{"Department":"CS","Batch":"2020","Section":"F","Subject":"Comp Networks (CS-F)","Room":"A-315","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2020","Section":"F","Subject":"TBW (CS-F)","Room":"A-315","Timings":"10:00-11:20"},{"Department":"SE","Batch":"2020","Section":"P","Subject":"Algo (SE-P)","Room":"A-315","Timings":"11:30-12:50"},{"Department":"SE","Batch":"2020","Section":"P","Subject":"TBW (SE-P)","Room":"A-315","Timings":"01:00-02:20"},{"Department":"SE","Batch":"2020","Section":"Q","Subject":"Algo (SE-Q)","Room":"A-315","Timings":"02:30-03:50"},{"Department":"SE","Batch":"2020","Section":"Q","Subject":"TBW (SE-Q)","Room":"A-315","Timings":"03:55-05:15"},{"Department":"CS","Batch":"2020","Section":"A","Subject":"Comp Networks (CS-A)","Room":"A-316","Timings":"11:30-12:50"},{"Department":"CS","Batch":"2020","Section":"A","Subject":"Automata (CS-A)","Room":"A-316","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2021","Section":"E,V","Subject":"Data St (CS-E,V)","Room":"A-108","Timings":"08:30-09:50"},{"Department":"CS","Batch":"2021","Section":"E","Subject":"Discrete (CS-E)","Room":"A-108","Timings":"10:00-11:20"},{"Department":"CY","Batch":"2020","Section":"T","Subject":"Number Th & Crypto (CY-T)","Room":"A-108","Timings":"01:00-02:20"},{"Department":"CS","Batch":"2021","Section":"C","Subject":"LA (CS-C)","Room":"A-211","Timings":"10:00-11:20"},{"Department":"CS","Batch":"2021","Section":"C","Subject":"Discrete (CS-C)","Room":"A-211","Timings":"11:30-12:50"},{"Department":"AI","Batch":"2021","Section":"K","Subject":"Mktg Mgt (AI-K)","Room":"A-211","Timings":"01:00-02:20"},{"Department":"CY","Batch":"2020","Section":"T","Subject":"Info Sec (CY-T) Digital Lab","Room":null,"Timings":"11:25-02:10"},{"Department":"CS","Batch":"2022","Section":"B","Subject":"PF Lab (CS-B)","Room":"C-Margala 1","Timings":"08:30-11:15"},{"Department":"CS","Batch":"2022","Section":"C","Subject":"PF Lab (CS-C)","Room":"C-Margala 1","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2022","Section":"C","Subject":"IICT Lab (DS-C)","Room":"C-Margala 1","Timings":"02:25-05:10"},{"Department":"CS","Batch":"2022","Section":"D","Subject":"PF Lab (CS-D)","Room":"C-Margala 3","Timings":"08:30-11:15"},{"Department":"CS","Batch":"2021","Section":"A","Subject":"COAL Lab (CS-A)","Room":"C-Margala 3","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2021","Section":"M","Subject":"Data St Lab (DS-M)","Room":"C-Margala 3","Timings":"02:25-05:10"},{"Department":"CS","Batch":"2022","Section":"E","Subject":"PF Lab (CS-E)","Room":"C-Margala 4","Timings":"08:30-11:15"},{"Department":"CS","Batch":"2021","Section":"B,Z","Subject":"Data St Lab (CS-B,Z)","Room":"C-Margala 4","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2021","Section":"N","Subject":"Data St Lab (DS-N)","Room":"C-Margala 4","Timings":"02:25-05:10"},{"Department":"DS","Batch":"2022","Section":"A","Subject":"IICT Lab (DS-A)","Room":"C-Rawal 1","Timings":"08:30-11:15"},{"Department":"SE","Batch":"2022","Section":"B","Subject":"PF Lab (SE-B)","Room":"C-Rawal 1","Timings":"11:25-02:10"},{"Department":"SE","Batch":"2021","Section":"P","Subject":"Data St Lab (SE-P)","Room":"C-Rawal 1","Timings":"02:25-05:10"},{"Department":"AI","Batch":"2021","Section":"K","Subject":"Data Structures Lab (AI-K)","Room":"Rawal 3 (B-232)","Timings":"08:30-11:15"},{"Department":"SE","Batch":"2020","Section":"Q","Subject":"S\/w Const & Dev Lab (SE-Q)","Room":"Rawal 3 (B-232)","Timings":"11:25-02:10"},{"Department":"CS","Batch":"","Section":"B","Subject":"DB Lab (CS-B)","Room":"C-Rawal 4","Timings":"08:30-11:15"},{"Department":"DS","Batch":"2022","Section":"B","Subject":"PF Lab (DS-B)","Room":"A-Karakoram 1","Timings":"08:30-11:15"},{"Department":"CS","Batch":"2021","Section":"Y","Subject":"COAL Lab (CS-Y)","Room":"A-Karakoram 1","Timings":"11:25-02:10"},{"Department":"CS","Batch":"","Section":"B","Subject":"OOP Lab (CS-B)","Room":"A-Karakoram 1","Timings":"02:25-05:10"},{"Department":"SE","Batch":"2022","Section":"E","Subject":"PF Lab (SE-E)","Room":"A-Karakoram 2","Timings":"08:30-11:15"},{"Department":"CS","Batch":"2022","Section":"A","Subject":"PF Lab (CS-A)","Room":"A-Karakoram 2","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2019","Section":"N","Subject":"Comp Networks Lab (DS-N)","Room":"A-Karakoram 2","Timings":"02:25-05:10"},{"Department":"SE","Batch":"2021","Section":"Q","Subject":"Data St Lab (SE-Q)","Room":"A-Karakoram 3","Timings":"08:30-11:15"},{"Department":"CS","Batch":"2020","Section":"C","Subject":"Comp Networks Lab (CS-C)","Room":"A-Karakoram 3","Timings":"11:25-02:10"},{"Department":"CY","Batch":"2019","Section":"T","Subject":"Sec S\/w Design (CY-T)","Room":"A-Karakoram 3","Timings":"02:30-03:50"},{"Department":"SE","Batch":"2022","Section":"F","Subject":"PF Lab (SE-F)","Room":"A-Mehran 1","Timings":"08:30-11:15"},{"Department":"SE","Batch":"2022","Section":"A","Subject":"PF Lab (SE-A)","Room":"A-Mehran 1","Timings":"11:25-02:10"},{"Department":"SE","Batch":"2020","Section":"P","Subject":"S\/w Const & Dev Lab (SE-P)","Room":"A-Mehran 1","Timings":"02:25-05:10"},{"Department":"CS","Batch":"2021","Section":"Z","Subject":"COAL Lab (CS-Z)","Room":"A-Mehran 2","Timings":"08:30-11:15"},{"Department":"AI","Batch":"2022","Section":"C1","Subject":"Eng Comp Lab (AI-C1)","Room":"A-Mehran 2","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2022","Section":"A1","Subject":"Eng Comp Lab (DS-A1)","Room":"A-Mehran 2","Timings":"02:25-05:10"},{"Department":"AI","Batch":"2021","Section":"J","Subject":"Prog for AI Lab (AI-J)","Room":"C-GPU Lab","Timings":"08:30-11:15"},{"Department":"CS","Batch":"2020","Section":"F","Subject":"Comp Networks Lab (CS-F)","Room":"C-GPU Lab","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2022","Section":"C1","Subject":"Eng Comp Lab (DS-C1)","Room":"A-CALL-1","Timings":"08:30-11:15"},{"Department":"AI","Batch":"2022","Section":"C2","Subject":"Eng Comp Lab (AI-C2)","Room":"A-CALL-1","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2022","Section":"A2","Subject":"Eng Comp Lab (DS-A2)","Room":"A-CALL-1","Timings":"02:25-05:10"},{"Department":"DS","Batch":"2022","Section":"C2","Subject":"Eng Comp Lab (DS-C2)","Room":"A-CALL-2","Timings":"08:30-11:15"},{"Department":"AI","Batch":"2022","Section":"D1","Subject":"Eng Comp Lab (AI-D1)","Room":"A-CALL-2","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2022","Section":"B1","Subject":"Eng Comp Lab (DS-B1)","Room":"A-CALL-2","Timings":"02:25-05:10"},{"Department":"AI","Batch":"2022","Section":"D2","Subject":"Eng Comp Lab (AI-D2)","Room":"A-CALL-3","Timings":"11:25-02:10"},{"Department":"DS","Batch":"2022","Section":"B2","Subject":"Eng Comp Lab (DS-B2)","Room":"A-CALL-3","Timings":"02:25-05:10"}]
+[
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "PF (CS-A)",
+        "Room": "C-301",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Calculus (CS-A)",
+        "Room": "C-301",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "AP (CS-A)",
+        "Room": "C-301",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (CS-A)",
+        "Room": "C-301",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "AP (CS-B)",
+        "Room": "C-302",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "PF (CS-B)",
+        "Room": "C-302",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (CS-B) ",
+        "Room": "C-302",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Calculus (CS-B)",
+        "Room": "C-302",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (CS-C) ",
+        "Room": "C-303",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "AP (CS-C)",
+        "Room": "C-303",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Calculus (CS-C)",
+        "Room": "C-303",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "PF (CS-C)",
+        "Room": "C-303",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "A",
+        "Subject": "Info Sec (CS-A)",
+        "Room": "C-303",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "B",
+        "Subject": "Info Sec (CS-B)",
+        "Room": "C-303",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "PF (CS-D)",
+        "Room": "C-304",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (CS-D) ",
+        "Room": "C-304",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "AP (CS-D)",
+        "Room": "C-304",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Calculus (CS-D)",
+        "Room": "C-304",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "E",
+        "Subject": "Info Sec (CS-E)",
+        "Room": "C-304",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "F",
+        "Subject": "Info Sec (CS-F)",
+        "Room": "C-304",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Calculus (CS-E)",
+        "Room": "C-305",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "PF (CS-E)",
+        "Room": "C-305",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Islamic Studies (CS-E)",
+        "Room": "C-305",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "AP (CS-E)",
+        "Room": "C-305",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "B",
+        "Subject": "PPIT (CS-B)",
+        "Room": "C-305",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "A",
+        "Subject": "PPIT (CS-A)",
+        "Room": "C-305",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Eng Comp (SE-G)   ",
+        "Room": "C-307",
+        "Timings": "08:30-10:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Eng Comp (CS-G)   ",
+        "Room": "C-307",
+        "Timings": "12:30-02:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Calculus (SE-A)",
+        "Room": "C-307",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "E",
+        "Subject": "PPIT (CS-E)",
+        "Room": "C-307",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Eng Comp (CS-H)   ",
+        "Room": "C-308",
+        "Timings": "08:30-10:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "Eng Comp (CS-J)   ",
+        "Room": "C-308",
+        "Timings": "12:30-02:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Eng Comp (CS-F)   ",
+        "Room": "C-308",
+        "Timings": "02:30-04:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "Eng Comp (CS-K)   ",
+        "Room": "C-309",
+        "Timings": "08:30-10:15"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2019",
+        "Section": "N",
+        "Subject": "Comp Networks (DS-N)",
+        "Room": "C-309",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2019",
+        "Section": "N",
+        "Subject": "Info Sec (DS-N)",
+        "Room": "C-309",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "LA (DS-A)",
+        "Room": "C-310",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "PF (DS-A)",
+        "Room": "C-310",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Calculus (DS-A)",
+        "Room": "C-310",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Pakistan Studies (DS-A)",
+        "Room": "C-310",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Calculus (CY-B)",
+        "Room": "C-310",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Algo (CY-T)",
+        "Room": "C-311",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "DB (CY-T)",
+        "Room": "C-311",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "G",
+        "Subject": "Automata (CS-G)",
+        "Room": "C-311",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "J",
+        "Subject": "Entre (AI-J)",
+        "Room": "C-311",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "K",
+        "Subject": "Entre (AI-K)",
+        "Room": "C-311",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "PF (DS-B)",
+        "Room": "C-401",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Pakistan Studies (DS-B)",
+        "Room": "C-401",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "LA (DS-B)",
+        "Room": "C-401",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Calculus (DS-B)",
+        "Room": "C-401",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Eng Comp (DS-D)   ",
+        "Room": "C-401",
+        "Timings": "02:30-04:15"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Calculus (DS-C)",
+        "Room": "C-402",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "LA (DS-C)",
+        "Room": "C-402",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Pakistan Studies (DS-C)",
+        "Room": "C-402",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "PF (DS-C)",
+        "Room": "C-402",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "F",
+        "Subject": "PPIT (CS-F)",
+        "Room": "C-402",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "PF (CY-A)",
+        "Room": "C-403",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Calculus (CY-A)",
+        "Room": "C-403",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Pakistan Studies (CY-A)",
+        "Room": "C-403",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "LA (CY-A)",
+        "Room": "C-403",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "AP (SE-B)",
+        "Room": "C-403",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "PF (CY-B)",
+        "Room": "C-404",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "LA (CY-B)",
+        "Room": "C-404",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "SDA (CS-C)",
+        "Room": "C-404",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Pakistan Studies (SE-E)",
+        "Room": "C-404",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Pakistan Studies (CY-B)",
+        "Room": "C-404",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "PF (SE-A)",
+        "Room": "C-405",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Pakistan Studies (SE-A)",
+        "Room": "C-405",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "A",
+        "Subject": "TBW (CS-A)",
+        "Room": "C-405",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "AP (SE-A)",
+        "Room": "C-405",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Pakistan Studies (SE-B)",
+        "Room": "C-406",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "PF (SE-B)",
+        "Room": "C-406",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Calculus (SE-B)",
+        "Room": "C-406",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Prob & Stats(SE-P)",
+        "Room": "C-406",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "S/w Const & Dev (SE-P)",
+        "Room": "C-406",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "S/w Qual Engg (SE-P)",
+        "Room": "C-406",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Calculus (SE-E)",
+        "Room": "C-407",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "AP (SE-E)",
+        "Room": "C-407",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "PF (SE-E)",
+        "Room": "C-407",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "S/w Qual Engg (SE-Q)",
+        "Room": "C-407",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Prob & Stats(SE-Q)",
+        "Room": "C-407",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "S/w Const & Dev (SE-Q)",
+        "Room": "C-407",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "AP (SE-F)",
+        "Room": "C-408",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "PF (SE-F)",
+        "Room": "C-408",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Pakistan Studies (SE-F)",
+        "Room": "C-408",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "TBW (SE-S)",
+        "Room": "C-408",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Algo (SE-R)",
+        "Room": "C-408",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "TBW (SE-R)",
+        "Room": "C-408",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Calculus (AI-C)",
+        "Room": "C-409",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "Y",
+        "Subject": "LA (CS-Y)",
+        "Room": "C-409",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "PF (AI-C)",
+        "Room": "C-409",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "LA (AI-C)",
+        "Room": "C-409",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Pakistan Studies (AI-C)",
+        "Room": "C-409",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "E",
+        "Subject": "Automata (CS-E)",
+        "Room": "C-410",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "E",
+        "Subject": "SDA (CS-E)",
+        "Room": "C-410",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "PF (AI-D)",
+        "Room": "B-227",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Calculus (AI-D)",
+        "Room": "B-227",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "LA (AI-D)",
+        "Room": "B-227",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Pakistan Studies (AI-D)",
+        "Room": "B-227",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "PDC (CY-T)",
+        "Room": "B-227",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "Sec S/w Design (CY-T)",
+        "Room": "B-227",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "Y",
+        "Subject": "Discrete (CS-Y)",
+        "Room": "B-229",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "TBW (AI-K)",
+        "Room": "B-229",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "Algo (AI-K)",
+        "Room": "B-229",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "Algo (AI-J)",
+        "Room": "B-229",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "TBW (AI-J)",
+        "Room": "B-229",
+        "Timings": "03:55-05:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "COAL (CS-A)",
+        "Room": "B-230",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "Discrete (CS-A)",
+        "Room": "B-230",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "LA (CS-A)",
+        "Room": "B-230",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A,Y",
+        "Subject": "Data St (CS-A,Y)",
+        "Room": "B-230",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "G",
+        "Subject": "Data St (CS-G)",
+        "Room": "B-230",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "COAL (DS-U)",
+        "Room": "A-301",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Intro to DS (DS-U)",
+        "Room": "A-301",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "Y",
+        "Subject": "COAL (CS-Y)",
+        "Room": "A-301",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "V",
+        "Subject": "LA (CS-V)",
+        "Room": "A-301",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B",
+        "Subject": "LA (CS-B)",
+        "Room": "A-302",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B",
+        "Subject": "COAL (CS-B)",
+        "Room": "A-302",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B,Z",
+        "Subject": "Data St (CS-B,Z)",
+        "Room": "A-302",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B",
+        "Subject": "Discrete (CS-B)",
+        "Room": "A-302",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "TBW (CS-C)",
+        "Room": "A-302",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "Z",
+        "Subject": "LA (CS-Z)",
+        "Room": "A-303",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "Z",
+        "Subject": "Discrete (CS-Z)",
+        "Room": "A-303",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "E",
+        "Subject": "LA (CS-E)",
+        "Room": "A-303",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "Z",
+        "Subject": "COAL (CS-Z)",
+        "Room": "A-303",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "COAL (DS-N)",
+        "Room": "A-303",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "C",
+        "Subject": "COAL (CS-C)",
+        "Room": "A-305",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "C",
+        "Subject": "Data St (CS-C)",
+        "Room": "A-305",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "D",
+        "Subject": "COAL (CS-D)",
+        "Room": "A-305",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "D",
+        "Subject": "Data St (CS-D)",
+        "Room": "A-305",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "Prog for AI (AI-J)",
+        "Room": "A-310",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "Discrete (AI-J)",
+        "Room": "A-310",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Algo (SE-S)",
+        "Room": "A-310",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "Prob & Stats(AI-J)",
+        "Room": "A-310",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "Data St (AI-J)",
+        "Room": "A-310",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "Discrete (AI-K)",
+        "Room": "A-311",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "Prog for AI (AI-K)",
+        "Room": "A-311",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "G",
+        "Subject": "SDA (CS-G)",
+        "Room": "A-311",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "Data St (AI-K)",
+        "Room": "A-311",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "Prob & Stats (AI-K)",
+        "Room": "A-311",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Discrete (DS-M)",
+        "Room": "A-314",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Prob & Stats (DS-M)",
+        "Room": "A-314",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Intro to DS (DS-M)",
+        "Room": "A-314",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Data St (DS-N)",
+        "Room": "A-314",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Data St (DS-M)",
+        "Room": "A-314",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Intro to DS (DS-N)",
+        "Room": "A-315",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Discrete (DS-N)",
+        "Room": "A-315",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Discrete (DS-U)",
+        "Room": "A-315",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "D",
+        "Subject": "TBW (CS-D) ",
+        "Room": "A-315",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "D",
+        "Subject": "Automata (CS-D)",
+        "Room": "A-316",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "A",
+        "Subject": "SDA (CS-A)",
+        "Room": "A-316",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Data St (SE-P)",
+        "Room": "A-108",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "HCI (SE-P)",
+        "Room": "A-108",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "S/w Req Engg (SE-P)",
+        "Room": "A-108",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "B",
+        "Subject": "TBW (CS-B)",
+        "Room": "A-108",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "B",
+        "Subject": "SDA (CS-B)",
+        "Room": "A-108",
+        "Timings": "02:30-03:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "S/w Req Engg (SE-Q)",
+        "Room": "B-130",
+        "Timings": "08:30-09:50"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "Data St (SE-Q)",
+        "Room": "B-130",
+        "Timings": "10:00-11:20"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "HCI (SE-Q)",
+        "Room": "B-130",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "F",
+        "Subject": "Automata (CS-F)",
+        "Room": "B-130",
+        "Timings": "01:00-02:20"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "F",
+        "Subject": "SDA (CS-F)",
+        "Room": "A-01",
+        "Timings": "11:30-12:50"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "PF Lab (CS-G)",
+        "Room": "C-Margala 1",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "PF Lab (CS-H)",
+        "Room": "C-Margala 1",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "IICT Lab (SE-C)",
+        "Room": "C-Margala 1",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "A",
+        "Subject": "Comp Networks Lab (CS-A)",
+        "Room": "C-Margala 3",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "S/w Const & Dev Lab (SE-R)",
+        "Room": "C-Margala 3",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "D",
+        "Subject": "Data St Lab (CS-D)",
+        "Room": "C-Margala 4",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "OS Lab (AI-J)",
+        "Room": "C-Margala 4",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "OS Lab (AI-K)",
+        "Room": "C-Margala 4",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "IICT Lab (AI-B)",
+        "Room": "C-Rawal 1",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "PF Lab (CS-F)",
+        "Room": "C-Rawal 1",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "IICT Lab (SE-D)",
+        "Room": "C-Rawal 1",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "E",
+        "Subject": "COAL Lab (CS-E)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "G",
+        "Subject": "COAL Lab (CS-G)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "C",
+        "Subject": "COAL Lab (CS-C)",
+        "Room": "C-Rawal 4",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "G",
+        "Subject": "Comp Networks Lab (CS-G)",
+        "Room": "A-Karakoram 1",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "IICT Lab (AI-A)",
+        "Room": "A-Karakoram 2",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "PF Lab (CS-K)",
+        "Room": "A-Karakoram 2",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "D",
+        "Subject": "Comp Networks Lab (CS-D)",
+        "Room": "A-Karakoram 2",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "V",
+        "Subject": "COAL Lab (CS-V)",
+        "Room": "A-Karakoram 3",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Comp Networks Lab (CY-T)",
+        "Room": "A-Karakoram 3",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "PF Lab (CS-J)",
+        "Room": "A-Mehran 1",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "S/w Const & Dev Lab (SE-S)",
+        "Room": "A-Mehran 1",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C1",
+        "Subject": "Eng Comp Lab (SE-C1)",
+        "Room": "A-Mehran 2",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D1",
+        "Subject": "Eng Comp Lab (DS-D1)",
+        "Room": "A-Mehran 2",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Eng Comp Lab (AI-A1)",
+        "Room": "A-Mehran 2",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "E",
+        "Subject": "Comp Networks Lab (CS-E)",
+        "Room": "C-GPU Lab",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C2",
+        "Subject": "Eng Comp Lab (SE-C2)",
+        "Room": "A-CALL-1",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Eng Comp Lab (DS-D2)",
+        "Room": "A-CALL-1",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Eng Comp Lab (AI-A2)",
+        "Room": "A-CALL-1",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D1",
+        "Subject": "Eng Comp Lab (SE-D1)",
+        "Room": "A-CALL-2",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G1",
+        "Subject": "Eng Comp Lab (SE-G1)",
+        "Room": "A-CALL-2",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B1",
+        "Subject": "Eng Comp Lab (AI-B1)",
+        "Room": "A-CALL-2",
+        "Timings": "02:25-05:10"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Eng Comp Lab (SE-D2)",
+        "Room": "A-CALL-3",
+        "Timings": "08:30-11:15"
+    },
+    {
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G2",
+        "Subject": "Eng Comp Lab (SE-G2) ",
+        "Room": "A-CALL-3",
+        "Timings": "11:25-02:10"
+    },
+    {
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Eng Comp Lab (AI-B2)",
+        "Room": "A-CALL-3",
+        "Timings": "02:25-05:10"
+    }
+]

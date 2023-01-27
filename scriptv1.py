@@ -7,7 +7,7 @@ from pandas import *
 wb = op.load_workbook('FSCTimeTable.xlsx')
 
 # get the sheet
-sheet = wb['Tuesday']
+sheet = wb['Monday']
 
 # dictionary of subject colours
 batchYear = {
@@ -51,8 +51,6 @@ for row in range(2, 55):
         if cell.value is None:
             continue
 
-        batch = ""
-        section = ""
         valid = False
         for dep in departments:
             if dep not in cell.value or ")" not in cell.value:
@@ -67,6 +65,7 @@ for row in range(2, 55):
         
         if batchYear.get(cell.fill.start_color.index) is not None:
             batch = batchYear[cell.fill.start_color.index]
+
         if ")" and "-" in cell.value:
             if  ":" not in cell.value:
                 spliced = cell.value.split("-")
@@ -82,7 +81,6 @@ for row in range(2, 55):
             subject = cell.value[:-11]
             room = sheet.cell(row=row, column=1).value # masla
             timings = cell.value[-11:]
-            schedule.append([room, subject, timings])
         else:
             subject = cell.value
             room = sheet.cell(row=row, column=1).value # masla
@@ -92,7 +90,6 @@ for row in range(2, 55):
                 timings = sheet.cell(row=1, column=col).value
 
         schedule.append([dep, batch, section, subject, room, timings])
-
 
 # print the schedule
 print(DataFrame(schedule[1:], columns=["Department", "Batch", "Section", "Subject", "Room", "Timings"]))
