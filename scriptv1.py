@@ -79,11 +79,11 @@ for row in range(2, 55):
 
         if ":" in cell.value:
             subject = cell.value[:-11]
-            room = sheet.cell(row=row, column=1).value # masla
+            room = sheet.cell(row=row, column=1).value
             timings = cell.value[-11:]
         else:
             subject = cell.value
-            room = sheet.cell(row=row, column=1).value # masla
+            room = sheet.cell(row=row, column=1).value
             if "Lab" in cell.value:
                 timings = sheet.cell(row=38, column=col).value
             else:
